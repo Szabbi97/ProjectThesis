@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjectThesis</string>
+    <string name="parameter_null_or_empty">All parameters should not be null or empty.</string>
+    <string name="email_format_not_valid">The e-mail format is not valid</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+</resources>
